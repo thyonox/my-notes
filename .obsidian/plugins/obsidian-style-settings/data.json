@@ -1,0 +1,21 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-avocado-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@fancy-hr": "fancy-hr-icon",
+  "blue-topaz-theme@@file-bg-shape-option": "file-shape-default",
+  "blue-topaz-theme@@dark-background-file": true,
+  "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-tab-liked",
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-six",
+  "blue-topaz-theme@@colorful-unordered-list": true,
+  "blue-topaz-theme@@unordered-list-style-options": "custom-unordered-list",
+  "blue-topaz-theme@@list-ul-marker-size-1": "1.2em",
+  "blue-topaz-theme@@list-ul-marker-size-2": "1.2em",
+  "blue-topaz-theme@@list-ul-marker-size-3": "1.2em",
+  "blue-topaz-theme@@list-ul-marker-size-4": "1.2em",
+  "blue-topaz-theme@@colorful-ordered-list": true,
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight",
+  "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": true,
+  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": false,
+  "Blue-Topaz-Codebox-Highlight@@font-weight-inline-code": "thin"
+}
