@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8d366616d74ef211",
+        "id": "a040a5efe2a9277f",
         "type": "tabs",
         "children": [
           {
-            "id": "cb6ac4d3c1f691dc",
+            "id": "ddbae45262a04cc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Framework Template.md",
+                "file": "ComputerScience/JavaScript/Framework/Vue.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Framework Template"
+              "title": "Vue.js"
             }
           }
         ]
@@ -115,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Framework Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Framework Template 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -163,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Framework Template.md",
+                "file": "ComputerScience/JavaScript/Framework/Vue.js.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Framework Template 的大纲"
+              "title": "Vue.js 的大纲"
             }
           }
         ],
@@ -198,8 +197,11 @@
   },
   "active": "e5d85ea5052edd0a",
   "lastOpenFiles": [
-    "sortspec.md",
+    "ComputerScience/JavaScript/Framework/Vue.js.md",
+    "ComputerScience/JavaScript/Core",
+    "ComputerScience/JavaScript/Framework",
     "README.md",
+    "sortspec.md",
     "Templates/Framework Template.md",
     "ComputerScience/Java/Framework/Spring/SpringTask.md",
     "Images/ComputerScience/Java/Framework/Spring/SpringTask/SpringTask.png",
@@ -210,8 +212,6 @@
     "Images/ComputerScience",
     "ComputerScience/Java/Framework/Spring",
     "ComputerScience/Java/Framework",
-    "ComputerScience/Java/Core",
-    "Images",
-    "ComputerScience/Kotlin"
+    "ComputerScience/Java/Core"
   ]
 }
