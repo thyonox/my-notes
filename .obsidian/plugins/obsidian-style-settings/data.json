@@ -17,5 +17,6 @@
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight",
   "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": true,
   "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": false,
-  "Blue-Topaz-Codebox-Highlight@@font-weight-inline-code": "thin"
+  "Blue-Topaz-Codebox-Highlight@@font-weight-inline-code": "thin",
+  "blue-topaz-theme@@font-size-code": "1em"
 }
