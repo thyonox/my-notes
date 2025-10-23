@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerScience/JavaScript/Framework/Electron.md",
+                "file": "ComputerScience/JavaScript/Framework/Nuxt.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electron"
+              "title": "Nuxt.js"
             }
           }
         ]
@@ -94,8 +94,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerScience/JavaScript/Framework/Electron.md",
+                "file": "ComputerScience/JavaScript/Framework/Nuxt.js.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Electron 的大纲"
+              "title": "Nuxt.js 的大纲"
             }
           }
         ],
@@ -195,12 +194,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "e5d85ea5052edd0a",
+  "active": "ae1647439103058f",
   "lastOpenFiles": [
-    "ComputerScience/JavaScript/Framework/Express.md",
     "ComputerScience/JavaScript/Framework/Electron.md",
-    "ComputerScience/JavaScript/Framework/Node.js.md",
     "ComputerScience/JavaScript/Framework/Nuxt.js.md",
+    "ComputerScience/JavaScript/Framework/Nuxt.js.md",
+    "ComputerScience/JavaScript/Framework/Express.md",
+    "ComputerScience/JavaScript/Framework/Node.js.md",
     "ComputerScience/JavaScript/Framework/React.js.md",
     "ComputerScience/JavaScript/Library/Puppeteer.md",
     "ComputerScience/JavaScript/Library/jQuery.md",
