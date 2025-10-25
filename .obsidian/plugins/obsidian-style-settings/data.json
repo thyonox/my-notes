@@ -18,5 +18,7 @@
   "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": true,
   "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": false,
   "Blue-Topaz-Codebox-Highlight@@font-weight-inline-code": "thin",
-  "blue-topaz-theme@@font-size-code": "1em"
+  "blue-topaz-theme@@font-size-code": "1em",
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-blue-mountain",
+  "blue-topaz-theme@@background-image-settings-switch": true
 }

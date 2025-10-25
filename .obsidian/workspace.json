@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a79182c4de87fdf5",
+        "id": "0dbeb1482770a837",
         "type": "tabs",
         "children": [
           {
-            "id": "ae1647439103058f",
+            "id": "14663d8857950d75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "ComputerScience/JavaScript/Framework/Nuxt.js.md",
-                "mode": "source",
-                "source": false
+                "aFile": "ComputerScience/Java/Core/注解与反射.md",
+                "bFile": "ComputerScience/Java/Core/注解与反射.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Nuxt.js"
+              "icon": "diff",
+              "title": "Diff: 注解与反射"
             }
           }
         ]
@@ -94,7 +95,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,13 +163,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerScience/JavaScript/Framework/Nuxt.js.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Nuxt.js 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -194,25 +195,37 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ae1647439103058f",
+  "active": "14663d8857950d75",
   "lastOpenFiles": [
+    "sortspec.md",
+    "ComputerScience/Java/Core/Filter&Listener.md",
+    "ComputerScience/Java/Core/Cookie&Session.md",
+    "ComputerScience/Java/Core/JSP.md",
+    "ComputerScience/Java/Core/Servlet.md",
+    "ComputerScience/Java/Core/Tomcat.md",
+    "ComputerScience/Java/Core/新特性.md",
+    "ComputerScience/Java/Core/JVM.md",
+    "ComputerScience/Java/Core/JUC并发编程.md",
+    "ComputerScience/Java/Core/多线程.md",
+    "ComputerScience/Java/Core/GUI.md",
+    "ComputerScience/Java/Core/网络编程.md",
+    "ComputerScience/Java/Core/注解与反射.md",
+    "ComputerScience/Java/Core/泛型.md",
+    "ComputerScience/Java/Core/语言基础.md",
+    "ComputerScience/Java/Core/面向对象.md",
+    "ComputerScience/Java/Core/集合框架.md",
+    "ComputerScience/Java/Core/IO.md",
+    "ComputerScience/Java/Core/异常处理.md",
+    "ComputerScience/Java/Core/常用类.md",
+    "ComputerScience/JavaScript/Framework/Vue.js.md",
     "ComputerScience/JavaScript/Framework/Electron.md",
-    "ComputerScience/JavaScript/Framework/Nuxt.js.md",
+    "ComputerScience/JavaScript/Framework/React.js.md",
     "ComputerScience/JavaScript/Framework/Nuxt.js.md",
     "ComputerScience/JavaScript/Framework/Express.md",
     "ComputerScience/JavaScript/Framework/Node.js.md",
-    "ComputerScience/JavaScript/Framework/React.js.md",
-    "ComputerScience/JavaScript/Library/Puppeteer.md",
-    "ComputerScience/JavaScript/Library/jQuery.md",
-    "ComputerScience/JavaScript/Library/axios.md",
-    "ComputerScience/JavaScript/Framework/Vue.js.md",
     "ComputerScience/JavaScript/Library",
     "ComputerScience/JavaScript/Core",
     "ComputerScience/JavaScript/Framework",
-    "README.md",
-    "sortspec.md",
-    "Templates/Framework Template.md",
-    "ComputerScience/Java/Framework/Spring/SpringTask.md",
     "Images/ComputerScience/Java/Framework/Spring/SpringTask/SpringTask.png",
     "Images/ComputerScience/Java/Framework/Spring/SpringTask",
     "Images/ComputerScience/Java/Framework/Spring",
