@@ -11,18 +11,32 @@
             "id": "14663d8857950d75",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "ComputerScience/Java/Core/注解与反射.md",
-                "bFile": "ComputerScience/Java/Core/注解与反射.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "ComputerScience/Java/Framework/MyBatisPlus.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 注解与反射"
+              "icon": "lucide-file",
+              "title": "MyBatisPlus"
+            }
+          },
+          {
+            "id": "a9b4ec590380ceac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComputerScience/Tools/VSCode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VSCode"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,12 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ComputerScience/Tools/VSCode.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "VSCode 的大纲"
             }
           }
         ],
@@ -195,34 +210,35 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "14663d8857950d75",
+  "active": "e5d85ea5052edd0a",
   "lastOpenFiles": [
-    "sortspec.md",
-    "ComputerScience/Java/Core/Filter&Listener.md",
-    "ComputerScience/Java/Core/Cookie&Session.md",
-    "ComputerScience/Java/Core/JSP.md",
-    "ComputerScience/Java/Core/Servlet.md",
-    "ComputerScience/Java/Core/Tomcat.md",
-    "ComputerScience/Java/Core/新特性.md",
-    "ComputerScience/Java/Core/JVM.md",
-    "ComputerScience/Java/Core/JUC并发编程.md",
-    "ComputerScience/Java/Core/多线程.md",
-    "ComputerScience/Java/Core/GUI.md",
-    "ComputerScience/Java/Core/网络编程.md",
-    "ComputerScience/Java/Core/注解与反射.md",
-    "ComputerScience/Java/Core/泛型.md",
-    "ComputerScience/Java/Core/语言基础.md",
-    "ComputerScience/Java/Core/面向对象.md",
-    "ComputerScience/Java/Core/集合框架.md",
-    "ComputerScience/Java/Core/IO.md",
-    "ComputerScience/Java/Core/异常处理.md",
-    "ComputerScience/Java/Core/常用类.md",
-    "ComputerScience/JavaScript/Framework/Vue.js.md",
-    "ComputerScience/JavaScript/Framework/Electron.md",
-    "ComputerScience/JavaScript/Framework/React.js.md",
-    "ComputerScience/JavaScript/Framework/Nuxt.js.md",
-    "ComputerScience/JavaScript/Framework/Express.md",
-    "ComputerScience/JavaScript/Framework/Node.js.md",
+    "ComputerScience/Tools/Vim.md",
+    "ComputerScience/Tools/VSCode.md",
+    "ComputerScience/Tools/Neovim.md",
+    "ComputerScience/Tools/Maven.md",
+    "ComputerScience/Tools/KubeSphere.md",
+    "ComputerScience/Tools/Kubernetes.md",
+    "ComputerScience/Tools/Jenkins.md",
+    "ComputerScience/Tools/Idea.md",
+    "ComputerScience/Tools/Gradle.md",
+    "ComputerScience/Tools/Git.md",
+    "ComputerScience/Tools/Figma.md",
+    "ComputerScience/Tools/Docker.md",
+    "ComputerScience/Tools/Cursor.md",
+    "ComputerScience/Java/Framework/Hibernate.md",
+    "ComputerScience/Tools/未命名",
+    "ComputerScience/Java/Framework/MyBatisPlus.md",
+    "ComputerScience/Java/Framework/MyBatis.md",
+    "ComputerScience/Java/Framework/Netty.md",
+    "ComputerScience/Java/Framework/xxl-sso.md",
+    "ComputerScience/Java/Framework/Seata.md",
+    "ComputerScience/Java/Framework/Sentinel.md",
+    "ComputerScience/Java/Framework/Sharding-JDBC.md",
+    "ComputerScience/Java/Framework/MinIO.md",
+    "ComputerScience/Java/Framework/Quartz.md",
+    "ComputerScience/Java/Framework/Shiro.md",
+    "ComputerScience/Java/Framework/SpringTask.md",
+    "ComputerScience/Java/Framework/SpringSecurity.md",
     "ComputerScience/JavaScript/Library",
     "ComputerScience/JavaScript/Core",
     "ComputerScience/JavaScript/Framework",
@@ -232,7 +248,6 @@
     "Images/ComputerScience/Java/Framework",
     "Images/ComputerScience/Java",
     "Images/ComputerScience",
-    "ComputerScience/Java/Framework/Spring",
-    "ComputerScience/Java/Framework"
+    "ComputerScience/Java/Framework/Spring"
   ]
 }
