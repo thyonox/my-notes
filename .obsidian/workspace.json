@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerScience/Tools/VSCode.md",
+                "file": "ComputerScience/Linux/Shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VSCode"
+              "title": "Shell"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerScience/Tools/VSCode.md",
+                "file": "ComputerScience/Linux/Shell.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "VSCode 的大纲"
+              "title": "Shell 的大纲"
             }
           }
         ],
@@ -212,8 +212,16 @@
   },
   "active": "e5d85ea5052edd0a",
   "lastOpenFiles": [
-    "ComputerScience/Tools/Vim.md",
+    "ComputerScience/Linux/Package Manager.md",
+    "ComputerScience/Linux/Shell.md",
+    "ComputerScience/Linux/Linux.md",
+    "ComputerScience/Linux/Kali Linux.md",
+    "ComputerScience/Linux/Fedora备忘录.md",
+    "ComputerScience/Linux/Cli Tools.md",
+    "ComputerScience/Linux/网站部署(Ubuntu).md",
+    "ComputerScience/JavaScript/Framework/Vue.js.md",
     "ComputerScience/Tools/VSCode.md",
+    "ComputerScience/Tools/Vim.md",
     "ComputerScience/Tools/Neovim.md",
     "ComputerScience/Tools/Maven.md",
     "ComputerScience/Tools/KubeSphere.md",
@@ -231,14 +239,6 @@
     "ComputerScience/Java/Framework/MyBatis.md",
     "ComputerScience/Java/Framework/Netty.md",
     "ComputerScience/Java/Framework/xxl-sso.md",
-    "ComputerScience/Java/Framework/Seata.md",
-    "ComputerScience/Java/Framework/Sentinel.md",
-    "ComputerScience/Java/Framework/Sharding-JDBC.md",
-    "ComputerScience/Java/Framework/MinIO.md",
-    "ComputerScience/Java/Framework/Quartz.md",
-    "ComputerScience/Java/Framework/Shiro.md",
-    "ComputerScience/Java/Framework/SpringTask.md",
-    "ComputerScience/Java/Framework/SpringSecurity.md",
     "ComputerScience/JavaScript/Library",
     "ComputerScience/JavaScript/Core",
     "ComputerScience/JavaScript/Framework",
