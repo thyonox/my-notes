@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerScience/Linux/Shell.md",
+                "file": "ComputerScience/JavaScript/Core/Typescript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shell"
+              "title": "Typescript"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerScience/Linux/Shell.md",
+                "file": "ComputerScience/JavaScript/Core/Typescript.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Shell 的大纲"
+              "title": "Typescript 的大纲"
             }
           }
         ],
@@ -212,8 +212,22 @@
   },
   "active": "e5d85ea5052edd0a",
   "lastOpenFiles": [
-    "ComputerScience/Linux/Package Manager.md",
+    "ComputerScience/JavaScript/Core/本地存储.md",
+    "ComputerScience/JavaScript/Core/Typescript.md",
+    "ComputerScience/JavaScript/Core/JSON处理.md",
+    "ComputerScience/JavaScript/Core/正则表达式.md",
+    "ComputerScience/JavaScript/Core/网络请求.md",
+    "ComputerScience/JavaScript/Core/BOM.md",
+    "ComputerScience/JavaScript/Core/DOM.md",
+    "ComputerScience/JavaScript/Core/模块化.md",
+    "ComputerScience/JavaScript/Core/错误处理.md",
+    "ComputerScience/JavaScript/Core/异步编程.md",
+    "ComputerScience/JavaScript/Core/数组与集合.md",
+    "ComputerScience/JavaScript/Core/对象.md",
+    "ComputerScience/JavaScript/Core/函数.md",
+    "ComputerScience/JavaScript/Core/语言基础.md",
     "ComputerScience/Linux/Shell.md",
+    "ComputerScience/Linux/Package Manager.md",
     "ComputerScience/Linux/Linux.md",
     "ComputerScience/Linux/Kali Linux.md",
     "ComputerScience/Linux/Fedora备忘录.md",
@@ -224,21 +238,7 @@
     "ComputerScience/Tools/Vim.md",
     "ComputerScience/Tools/Neovim.md",
     "ComputerScience/Tools/Maven.md",
-    "ComputerScience/Tools/KubeSphere.md",
-    "ComputerScience/Tools/Kubernetes.md",
-    "ComputerScience/Tools/Jenkins.md",
-    "ComputerScience/Tools/Idea.md",
-    "ComputerScience/Tools/Gradle.md",
-    "ComputerScience/Tools/Git.md",
-    "ComputerScience/Tools/Figma.md",
-    "ComputerScience/Tools/Docker.md",
-    "ComputerScience/Tools/Cursor.md",
-    "ComputerScience/Java/Framework/Hibernate.md",
     "ComputerScience/Tools/未命名",
-    "ComputerScience/Java/Framework/MyBatisPlus.md",
-    "ComputerScience/Java/Framework/MyBatis.md",
-    "ComputerScience/Java/Framework/Netty.md",
-    "ComputerScience/Java/Framework/xxl-sso.md",
     "ComputerScience/JavaScript/Library",
     "ComputerScience/JavaScript/Core",
     "ComputerScience/JavaScript/Framework",
