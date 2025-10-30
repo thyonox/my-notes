@@ -95,8 +95,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -202,16 +202,31 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
+      "random-note:开始漫游笔记": false,
       "custom-sort:Toggle custom sorting": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "callout-manager:Insert Callout": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "random-note:开始漫游笔记": false
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "e5d85ea5052edd0a",
   "lastOpenFiles": [
+    "ComputerScience/Web/Framework/TailwindCSS.md",
+    "ComputerScience/Web/Framework/Nginx.md",
+    "ComputerScience/Web/Core/HTML5.md",
+    "ComputerScience/Web/Core/CSS3.md",
+    "ComputerScience/Web/Application/RestAPI.md",
+    "ComputerScience/Web/Framework",
+    "ComputerScience/Web/Core",
+    "ComputerScience/Web/Application",
+    "ComputerScience/Web",
+    "ComputerScience/Database/SQL/MySQL.md",
+    "ComputerScience/Database/NoSQL/Redis.md",
+    "ComputerScience/Database/NoSQL/MongoDB.md",
+    "ComputerScience/Database/SQL",
+    "ComputerScience/Database/NoSQL",
+    "ComputerScience/Database",
     "ComputerScience/JavaScript/Core/本地存储.md",
     "ComputerScience/JavaScript/Core/Typescript.md",
     "ComputerScience/JavaScript/Core/JSON处理.md",
@@ -230,24 +245,9 @@
     "ComputerScience/Linux/Package Manager.md",
     "ComputerScience/Linux/Linux.md",
     "ComputerScience/Linux/Kali Linux.md",
-    "ComputerScience/Linux/Fedora备忘录.md",
-    "ComputerScience/Linux/Cli Tools.md",
-    "ComputerScience/Linux/网站部署(Ubuntu).md",
-    "ComputerScience/JavaScript/Framework/Vue.js.md",
-    "ComputerScience/Tools/VSCode.md",
-    "ComputerScience/Tools/Vim.md",
-    "ComputerScience/Tools/Neovim.md",
-    "ComputerScience/Tools/Maven.md",
     "ComputerScience/Tools/未命名",
     "ComputerScience/JavaScript/Library",
     "ComputerScience/JavaScript/Core",
-    "ComputerScience/JavaScript/Framework",
-    "Images/ComputerScience/Java/Framework/Spring/SpringTask/SpringTask.png",
-    "Images/ComputerScience/Java/Framework/Spring/SpringTask",
-    "Images/ComputerScience/Java/Framework/Spring",
-    "Images/ComputerScience/Java/Framework",
-    "Images/ComputerScience/Java",
-    "Images/ComputerScience",
-    "ComputerScience/Java/Framework/Spring"
+    "Images/ComputerScience/Java/Framework/Spring/SpringTask/SpringTask.png"
   ]
 }
