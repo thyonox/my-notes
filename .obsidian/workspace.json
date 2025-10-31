@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerScience/JavaScript/Core/Typescript.md",
+                "file": "ComputerScience/JavaScript/Library/Webpack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Typescript"
+              "title": "Webpack"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerScience/JavaScript/Core/Typescript.md",
+                "file": "ComputerScience/JavaScript/Library/Webpack.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Typescript 的大纲"
+              "title": "Webpack 的大纲"
             }
           }
         ],
@@ -212,6 +212,20 @@
   },
   "active": "e5d85ea5052edd0a",
   "lastOpenFiles": [
+    "ComputerScience/JavaScript/Library/Vite.md",
+    "ComputerScience/JavaScript/Library/Webpack.md",
+    "ComputerScience/JavaScript/Library/未命名",
+    "ComputerScience/JavaScript/Library/GSAP.md",
+    "ComputerScience/JavaScript/Library/ElementPlus.md",
+    "ComputerScience/JavaScript/Framework/Uniapp.md",
+    "ComputerScience/JavaScript/Framework/Taro.md",
+    "ComputerScience/JavaScript/Framework/Next.js.md",
+    "ComputerScience/JavaScript/Framework/Hugo.md",
+    "ComputerScience/Java/Library/jjwt.md",
+    "ComputerScience/Java/Library/JDBC.md",
+    "ComputerScience/Java/Library/FastJson.md",
+    "ComputerScience/JavaScript/Core/Typescript.md",
+    "ComputerScience/Java/Library",
     "ComputerScience/Web/Framework/TailwindCSS.md",
     "ComputerScience/Web/Framework/Nginx.md",
     "ComputerScience/Web/Core/HTML5.md",
@@ -228,26 +242,12 @@
     "ComputerScience/Database/NoSQL",
     "ComputerScience/Database",
     "ComputerScience/JavaScript/Core/本地存储.md",
-    "ComputerScience/JavaScript/Core/Typescript.md",
     "ComputerScience/JavaScript/Core/JSON处理.md",
     "ComputerScience/JavaScript/Core/正则表达式.md",
     "ComputerScience/JavaScript/Core/网络请求.md",
     "ComputerScience/JavaScript/Core/BOM.md",
     "ComputerScience/JavaScript/Core/DOM.md",
-    "ComputerScience/JavaScript/Core/模块化.md",
-    "ComputerScience/JavaScript/Core/错误处理.md",
-    "ComputerScience/JavaScript/Core/异步编程.md",
-    "ComputerScience/JavaScript/Core/数组与集合.md",
-    "ComputerScience/JavaScript/Core/对象.md",
-    "ComputerScience/JavaScript/Core/函数.md",
-    "ComputerScience/JavaScript/Core/语言基础.md",
-    "ComputerScience/Linux/Shell.md",
-    "ComputerScience/Linux/Package Manager.md",
-    "ComputerScience/Linux/Linux.md",
-    "ComputerScience/Linux/Kali Linux.md",
     "ComputerScience/Tools/未命名",
-    "ComputerScience/JavaScript/Library",
-    "ComputerScience/JavaScript/Core",
     "Images/ComputerScience/Java/Framework/Spring/SpringTask/SpringTask.png"
   ]
 }
